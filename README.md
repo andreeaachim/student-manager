@@ -1,7 +1,7 @@
 # **Student Manager Application**
 
 ## _Introduction_
-This application is an exercise for the FIS laboratory. You can find the lab assignment on the [lab web page](http://labs.cs.upt.ro/~oose/pmwiki.php/FSE/LAB2020).
+This application is an exercise for the FIS(SEF) laboratory. You can find the lab assignment on the [lab web page](http://labs.cs.upt.ro/~oose/pmwiki.php/FSE/LAB2020).
 
 The application is meant to help you learn _Git_. At the same time, we aim at giving you a very short introduction to JavaFX.
 
